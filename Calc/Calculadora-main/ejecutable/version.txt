@@ -1,0 +1,30 @@
+FILEVERSION    1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEFLAGSMASK  0x3F
+FILEFLAGS      0x0
+FILEOS         VOS_UNKNOWN | VOS__WINDOWS32
+FILETYPE       VFT_APP
+FILESUBTYPE    0x0
+{
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0, 1200
+  }
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "000004b0"
+    {
+      VALUE "Comments",          ""
+      VALUE "CompanyName",       ""
+      VALUE "FileDescription",   "Calculadora"
+      VALUE "FileVersion",       "1.0.0.0"
+      VALUE "InternalName",      "Calculadora.exe"
+      VALUE "LegalCopyright",    "Copyright ©  2021"
+      VALUE "LegalTrademarks",   ""
+      VALUE "OriginalFilename",  "Calculadora.exe"
+      VALUE "ProductName",       "Calculadora"
+      VALUE "ProductVersion",    "1.0.0.0"
+      VALUE "Assembly Version",  "1.0.0.0"
+    }
+  }
+}
